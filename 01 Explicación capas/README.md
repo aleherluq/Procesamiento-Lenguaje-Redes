@@ -25,7 +25,7 @@ Cuando se usa esta capa como la primera capa de un modelo, se le porporciona un 
 ### Argumentos
 
 
-..* **filters:* Entero, la dimensionaldad del espacio a la salida 
+* **filters**: Entero, la dimensionaldad del espacio a la salida 
 ..* **kernel_size:** Entero o tupla/lista de enteros solitarios, especificando la longitud de la ventana convolucional de 1D
 ..* **strides:** Entero o tupla/lista de enteros, especificando el avance de las convoluciones. Especificar el valor de cualquier paso como != 1 es incomplatible con especificar **dilation_rate** con valor !=1
 ..* **padding:** Existen varios casos: **valid**, que significa que no hay padding. **same**  el padding resultante hace que la entrada tenga la misma longitud que la salida. **"casual"** esta resulta en convoluciones "casual", por ejemplo en el caso de que la salida de una no dependa de la entrada de la siguiente.
