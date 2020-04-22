@@ -1,0 +1,86 @@
+Label,Texto
+NAOS/RealizarPeticion/AltausuarioengrupoNAOS,Quiero dar de alta a un usuario externo en naos
+NAOS/RealizarPeticion/Altaservicio,Como dar de alta un servicio en el sistema naos
+NAOS/RealizarPeticion/Bajaservicio,como dar de baja a un servicio en el sistema naos
+NAOS/RealizarPeticion/Configuracionusuario,quiero cambiar la configuración del usuario xxx en naos
+NAOS/RealizarPeticion/Visibilidadcomp,como dar visibilidad a un usuario 
+NAOS/RealizarPeticion/Cambiarflujo,Quisiera cambiar el flujo al procedimiento xxx
+NAOS/RealizarPeticion/ImplementarNAOS,Como solicitar la implementación de Naos en el organismo XXX
+NAOS/RealizarPeticion/Desarrollarplug,Solicitar el desarrollo de un plugin para naos
+NAOS/Notinc/FuncincorrNAOS,Notificar funcionamiento incorreco de NAOS
+NAOS/Notinc/Viscatser,Notificar incidencia con visibilidad del catálogo de servicio
+NAOS/Realconsult/Gruposparticipa,Información sobre los grupos en los que participa el usuario XXX
+NAOS/Realconsult/viscatserus,Información sobre la accesibilidad del usuario XXX
+NAOS/Realconsult/catser,Solicitar información sobre la categoría de un servicio
+NAOS/Realconsult/miembgruponaos,Solicitar información sobre los componentes de un grupo
+NAOS/RealizarPeticion/AltausuarioengrupoNAOS,Cómo dar de alta al usuario xxxx.xxx en naos
+NAOS/RealizarPeticion/Altaservicio,Dar de alta a un componente en naos
+NAOS/RealizarPeticion/Bajaservicio,solicitar baja de servicio en naos
+NAOS/RealizarPeticion/Configuracionusuario,como cambiar la configuración usuario en naos
+NAOS/RealizarPeticion/Visibilidadcomp,proporcionar visibilidad a usuario naos
+NAOS/RealizarPeticion/Cambiarflujo,Como cambiar el flujo xxx
+NAOS/RealizarPeticion/ImplementarNAOS,Solicitar la implementación de naos 
+NAOS/RealizarPeticion/Desarrollarplug,como pedir el desarrollo de un plugin para naos
+NAOS/Notinc/FuncincorrNAOS,Informar sobre tiques corruptos naos
+NAOS/Notinc/Viscatser,Informar sobre incidencia con visibilidad del catálogo de servicios
+NAOS/Realconsult/Gruposparticipa,Solicitud de los grupos en los que participa un usuario
+NAOS/Realconsult/viscatserus,Información sobre los servicios accesibles para el usuario
+NAOS/Realconsult/catser,Información sobre la categoría de un servicio
+NAOS/Realconsult/miembgruponaos,Listado componentes grupo
+NAOS/RealizarPeticion/AltausuarioengrupoNAOS,Como dar de alta a un nuevo usuario en naos
+NAOS/RealizarPeticion/Altaservicio,Solicitar alta de elemento 
+NAOS/RealizarPeticion/Bajaservicio,solicitar baja de un servicio en el sistema naos
+NAOS/RealizarPeticion/Configuracionusuario,solicitar la modificación de un usuario en naos
+NAOS/RealizarPeticion/Visibilidadcomp,visibilidad usuario en grupo
+NAOS/RealizarPeticion/Cambiarflujo,cambiar procedimiento xxx
+NAOS/RealizarPeticion/ImplementarNAOS,implementar naos en organismo
+NAOS/RealizarPeticion/Desarrollarplug,desarrollar extensión para naos
+NAOS/Notinc/FuncincorrNAOS,informar sobre la lentitud del sistema
+NAOS/Notinc/Viscatser,incidencia
+NAOS/Realconsult/Gruposparticipa,Información sobre los grupos técnicos en los que participa el usuario XXX
+NAOS/Realconsult/viscatserus,accesibilidad usuario naos
+NAOS/Realconsult/catser,lista categoría de un servicio
+NAOS/Realconsult/miembgruponaos,Información integrantes grupo
+NAOS/RealizarPeticion/AltausuarioengrupoNAOS,Solicitar alta en naos a usuarios
+NAOS/RealizarPeticion/Altaservicio,como dar de alta a un elemento en naos
+NAOS/RealizarPeticion/Bajaservicio,solicitar la baja de un elemento en naos
+NAOS/RealizarPeticion/Configuracionusuario,información usuario
+NAOS/RealizarPeticion/Visibilidadcomp,revocar visibilidad usuario naos
+NAOS/RealizarPeticion/Cambiarflujo,solicitar cambio de procedimiento
+NAOS/RealizarPeticion/ImplementarNAOS,implemento de naos en organismo
+NAOS/RealizarPeticion/Desarrollarplug,solicitud de desarrollo de extensión para naos
+NAOS/Notinc/FuncincorrNAOS,problemas con la integración con sistemas externos 
+NAOS/Notinc/Viscatser,catalogo servicios
+NAOS/Realconsult/Gruposparticipa,grupos técnicos
+NAOS/Realconsult/viscatserus,accesibilidad
+NAOS/Realconsult/catser,visibilidad servicio
+NAOS/Realconsult/miembgruponaos,Integrantes
+NAOS/RealizarPeticion/AltausuarioengrupoNAOS,Solicito alta de un usuario externo en naos
+NAOS/RealizarPeticion/Altaservicio,Solicito alta de un servicio en el sistema naos
+NAOS/RealizarPeticion/Bajaservicio,como dar de baja a un elemento en el sistema naos
+NAOS/RealizarPeticion/Configuracionusuario,Modificar configuración usuario en NAOS
+NAOS/RealizarPeticion/Visibilidadcomp,revocar visibilidad usuario tecnico en sistema naos
+NAOS/RealizarPeticion/Cambiarflujo,Cambiar procedimiento
+NAOS/RealizarPeticion/ImplementarNAOS,implementar la suit naos en organismo
+NAOS/RealizarPeticion/Desarrollarplug,desarrollo nuevo plugin para naos
+NAOS/Notinc/FuncincorrNAOS,Notificar lentitud del sistema
+NAOS/Notinc/Viscatser,Problemas con la visibilidad del catálogo de servicios
+NAOS/Realconsult/Gruposparticipa,Grupos técnicos en los que participa un usuario
+NAOS/Realconsult/viscatserus,Visibilidad del catálogo de servicios de un usuario
+NAOS/Realconsult/catser,categorias
+NAOS/Realconsult/miembgruponaos,Listado integrantes grupo
+NAOS/RealizarPeticion/AltausuarioengrupoNAOS,alta
+NAOS/RealizarPeticion/Altaservicio,alta
+NAOS/RealizarPeticion/Bajaservicio,baja
+NAOS/RealizarPeticion/Configuracionusuario,usuario
+NAOS/RealizarPeticion/Visibilidadcomp,Visibilidad
+NAOS/RealizarPeticion/Cambiarflujo,cambio procedimiento
+NAOS/RealizarPeticion/ImplementarNAOS,implementación
+NAOS/RealizarPeticion/Desarrollarplug,plugin
+NAOS/Notinc/FuncincorrNAOS,fallo
+NAOS/Notinc/Viscatser,servicios
+NAOS/Realconsult/Gruposparticipa,participación en grupos técnicos
+NAOS/Realconsult/viscatserus,servicios
+NAOS/Realconsult/catser,servicio
+NAOS/Realconsult/miembgruponaos,grupo 
+NAOS/RealizarPeticion/PeticionGeneral,a
